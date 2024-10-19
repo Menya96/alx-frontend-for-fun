@@ -1,0 +1,1 @@
+Markdown is a lightweight markup language that allows you to format text easily. Converting Markdown files into HTML can be incredibly useful for web developers, writers, and anyone looking to publish content online. In this repository we create a script in python that converts text files to html
